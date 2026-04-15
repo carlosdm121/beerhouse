@@ -1,38 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍺 BeerHouse - Landing Page
 
-## Getting Started
+![Estado](https://img.shields.io/badge/status-active-brightgreen)
+![Proyecto](https://img.shields.io/badge/type-landing%20page-blue)
+![Licencia](https://img.shields.io/badge/license-MIT-green)
 
-https://beerhouse.vercel.app/
+Landing page moderna desarrollada para una cervecería/bar ficticio llamado **BeerHouse**.  
+Diseñada para transmitir una experiencia visual atractiva, generar confianza y presentar productos de forma clara.
 
-First, run the development server:
+Este proyecto forma parte de mi portfolio como desarrollador web, enfocado en la creación de páginas para negocios reales.
+
+---
+
+## 🚀 Demo
+
+<p align="center">
+<a href="https://beerhouse.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🍺%20VER%20DEMO-ONLINE-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/carlosdm121/beerhouse" target="_blank">
+  <img src="https://img.shields.io/badge/💻%20VER%20CÓDIGO-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 🖼 Vista previa
+
+![preview](preview.png)
+
+---
+
+## 🛠 Tecnologías utilizadas
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+
+---
+
+## 📂 Características
+
+✔ Diseño moderno y visualmente atractivo  
+✔ Estilo enfocado en gastronomía / cervecería  
+✔ Secciones claras de contenido  
+✔ Animaciones suaves  
+✔ Diseño responsive (mobile-first)  
+✔ Optimización básica de rendimiento  
+
+---
+
+## 🎯 Objetivo del proyecto
+
+Este proyecto fue desarrollado para:
+
+- Crear una landing page para un negocio gastronómico  
+- Practicar diseño UI/UX moderno  
+- Construir un proyecto real para portfolio profesional  
+
+---
+
+## 🧠 Enfoque de diseño
+
+La página está pensada para:
+
+- captar la atención del usuario rápidamente  
+- transmitir una identidad visual fuerte  
+- facilitar la navegación  
+- generar confianza en el negocio  
+
+---
+
+## 📦 Instalación
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/carlosdm121/beerhouse.git
+cd beerhouse
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrir en el navegador:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+index.html
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 👨‍💻 Autor
 
-To learn more about Next.js, take a look at the following resources:
+Carlos Daniel Martínez  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+GitHub  
+https://github.com/carlosdm121
