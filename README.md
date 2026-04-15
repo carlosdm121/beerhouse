@@ -40,7 +40,9 @@ Este proyecto forma parte de mi portfolio como desarrollador web, enfocado en la
 - HTML5  
 - CSS3  
 - JavaScript  
-- Git & GitHub  
+- Git & GitHub
+- Next.js
+- TypeScrip 
 
 ---
 
@@ -60,7 +62,7 @@ Este proyecto forma parte de mi portfolio como desarrollador web, enfocado en la
 Este proyecto fue desarrollado para:
 
 - Crear una landing page para un negocio gastronómico  
-- Practicar diseño UI/UX moderno  
+- Practicar diseño en Next.js y Typescript 
 - Construir un proyecto real para portfolio profesional  
 
 ---
@@ -86,7 +88,13 @@ cd beerhouse
 Abrir en el navegador:
 
 ```bash
-index.html
+
+cd beerhouse
+
+npm install
+
+npm run dev
+
 ```
 
 ---
