@@ -96,7 +96,7 @@ npm install
 npm run dev
 
 ```
-
+run: https://localhost:3000
 ---
 
 ## 👨‍💻 Autor
